@@ -8,8 +8,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo/myshop.git
-   cd myshop
+   git clone https://github.com/jishadaj/NextJs_Shopify_API_Integration.git
+   cd NextJs_Shopify_API_Integration
 
 2. Install npm : npm install      
 
