@@ -1,0 +1,33 @@
+export const productTypes = [
+  "women's coats & jackets",
+  "men's coats & jackets",
+  "women's shoes",
+  "unisex scarves",
+  "women's scarves",
+  "women's tops",
+  "women's button-ups",
+  "women's dresses",
+  "unisex hats",
+  "men's button-ups",
+  "women's shorts",
+];
+
+export const vendors = [
+  "NLST",
+  "Hannes Roether",
+  "Lilith",
+  "Marsell",
+  "1-100",
+  "Faliero Sarti",
+  "La Prestic Ouiston",
+  "By Malene Birger",
+  "NICO",
+  "Sayaka Davis",
+  "Hansen",
+  "V:Room",
+  "Super Duper Hats",
+  "Antoni & Alison",
+  "Ivan Grundahl",
+  "Jesse Kamm",
+  "Hazel Brown",
+];
