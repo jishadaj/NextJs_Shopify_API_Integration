@@ -17,7 +17,7 @@ if (!storeUrl || !accessToken) {
 }
 
 export const getProducts = async (
-  first: number = 10,
+  first: number = 20,
   after?: string,
   searchQuery?: string,
   productType?: string,
